@@ -1,6 +1,6 @@
 {
   "name": "angularcli-electron",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "main.js",
   "angular-cli": {},
@@ -13,9 +13,7 @@
     "e2e": "protractor"
   },
   "private": true,
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
     "@angular/common": "^2.3.1",
     "@angular/compiler": "^2.3.1",
